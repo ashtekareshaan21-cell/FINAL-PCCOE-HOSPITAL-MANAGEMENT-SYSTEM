@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Large Heart Symbol -->
+  <path d="M 50 70 C 30 55 20 45 20 35 C 20 25 28 18 35 18 C 42 18 50 25 50 25 C 50 25 58 18 65 18 C 72 18 80 25 80 35 C 80 45 70 55 50 70" fill="#E91E63" stroke="#C2185B" stroke-width="2"/>
+  <!-- Heartbeat line -->
+  <path d="M 15 50 L 25 50 L 28 45 L 32 55 L 35 52 L 40 50" stroke="#FF5722" stroke-width="2" fill="none"/>
+  <circle cx="85" cy="50" r="3" fill="#FF5722"/>
+</svg>

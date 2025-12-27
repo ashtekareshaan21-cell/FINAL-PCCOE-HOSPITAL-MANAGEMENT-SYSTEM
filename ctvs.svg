@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Large heart -->
+  <path d="M 50 65 C 32 52 22 43 22 33 C 22 25 28 18 35 18 C 42 18 50 25 50 25 C 50 25 58 18 65 18 C 72 18 78 25 78 33 C 78 43 68 52 50 65" fill="#D32F2F" stroke="#B71C1C" stroke-width="2"/>
+  <!-- Surgical scalpel -->
+  <line x1="40" y1="50" x2="60" y2="50" stroke="#FFD700" stroke-width="2"/>
+  <polygon points="60,50 62,48 62,52" fill="#FFD700"/>
+  <!-- Stitch marks -->
+  <circle cx="42" cy="50" r="1.5" fill="#FFF"/>
+  <circle cx="50" cy="50" r="1.5" fill="#FFF"/>
+  <circle cx="58" cy="50" r="1.5" fill="#FFF"/>
+</svg>

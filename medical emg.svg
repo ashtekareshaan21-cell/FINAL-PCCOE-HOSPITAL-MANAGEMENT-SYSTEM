@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Ambulance vehicle -->
+  <rect x="25" y="35" width="50" height="25" fill="#0288D1" stroke="#01579B" stroke-width="2" rx="3"/>
+  <!-- Ambulance roof -->
+  <path d="M 30 35 L 70 35 L 68 28 L 32 28" fill="#0288D1" stroke="#01579B" stroke-width="2"/>
+  <!-- Ambulance cross (red) -->
+  <rect x="44" y="39" width="12" height="3" fill="#FF5722"/>
+  <rect x="49" y="34" width="3" height="12" fill="#FF5722"/>
+  <!-- Wheels -->
+  <circle cx="32" cy="65" r="4" fill="none" stroke="#01579B" stroke-width="2"/>
+  <circle cx="68" cy="65" r="4" fill="none" stroke="#01579B" stroke-width="2"/>
+  <!-- Siren light -->
+  <circle cx="50" cy="20" r="4" fill="#FF5722" stroke="#D84315" stroke-width="1"/>
+  <circle cx="50" cy="20" r="2" fill="#FFB74D"/>
+</svg>

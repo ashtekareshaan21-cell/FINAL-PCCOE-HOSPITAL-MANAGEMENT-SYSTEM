@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- ICU Bed -->
+  <rect x="25" y="40" width="50" height="8" fill="none" stroke="#FF5722" stroke-width="2" rx="2"/>
+  <!-- Mattress lines -->
+  <line x1="30" y1="40" x2="30" y2="48" stroke="#FF5722" stroke-width="1"/>
+  <line x1="40" y1="40" x2="40" y2="48" stroke="#FF5722" stroke-width="1"/>
+  <line x1="50" y1="40" x2="50" y2="48" stroke="#FF5722" stroke-width="1"/>
+  <line x1="60" y1="40" x2="60" y2="48" stroke="#FF5722" stroke-width="1"/>
+  <line x1="70" y1="40" x2="70" y2="48" stroke="#FF5722" stroke-width="1"/>
+  <!-- Bed frame -->
+  <line x1="25" y1="48" x2="75" y2="48" stroke="#FF5722" stroke-width="2"/>
+  <circle cx="25" cy="55" r="3" fill="#FF5722"/>
+  <circle cx="75" cy="55" r="3" fill="#FF5722"/>
+  <!-- Monitor/vital signs -->
+  <rect x="18" y="25" width="12" height="12" fill="none" stroke="#FF5722" stroke-width="1.5" rx="1"/>
+  <path d="M 20 32 L 22 30 L 24 34 L 26 28 L 28 32" stroke="#FF5722" stroke-width="1" fill="none"/>
+</svg>
